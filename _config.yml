@@ -27,8 +27,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   your vehicle back to a showroom fresh finish
 baseurl: "bronson" # the subpath of your site, e.g. /blog
 url: "https://mobile-detailing.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username: BronsonMobileDetailing
+twitter_username: bronson
+github_username:  bronson
+pinterest_username: bronson
+instagram_username: bronson
+linkedin_username: bronson
+rss: https://mobile-detailing.github.io/bronson/rss
 
 # Build settings
 theme: minima
