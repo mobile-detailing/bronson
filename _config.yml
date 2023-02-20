@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bronson.mobile-detailing.app" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: BronsonMobileDetailing
-twitter_username: bronson-mobile-detailing
+twitter_username: BronsonDetail
 pinterest_username: bronson-mobile-detailing
 linkedin_username: brad-bronson-760039160
 
