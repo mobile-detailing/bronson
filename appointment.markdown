@@ -4,4 +4,4 @@ title: Make an Appointment
 permalink: /appointment/
 ---
 
-[EMAIL US](mailto://brad.bronson@gmail.com)
+[EMAIL US](mailto:brad.bronson@gmail.com)
