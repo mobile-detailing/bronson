@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Providing extensive interior and exterior automotive detailing
   services to the greater Kansas City area.  We take pride in bringing
   your vehicle back to a showroom fresh finish
+slogan: SHINE - PROTECT - REFRESH
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bronson.mobile-detailing.app" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: Bronson Mobile Detail
