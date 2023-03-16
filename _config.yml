@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bronson's Mobile Detailing
+title: Bronson Mobile Detail
 email: bronson@mobile-detailing.app
 description: >- # this means to ignore newlines until "baseurl:"
   "SHINE - PROTECT - REFRESH" 
@@ -30,9 +30,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bronson.mobile-detailing.app" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: Bronson Mobile Detail
 instagram_username: BronsonMobileDetail
-twitter_username: BronsonDetail
-pinterest_username: bronson-mobile-detailing
-linkedin_username: brad-bronson-760039160
+# twitter_username: BronsonDetail
+# pinterest_username: bronson-mobile-detailing
+# linkedin_username: brad-bronson-760039160
 
 # Build settings
 theme: minima
