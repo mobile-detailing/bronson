@@ -4,4 +4,6 @@ title: Make an Appointment
 permalink: /appointment/
 ---
 
-[EMAIL US](mailto:brad.bronson@gmail.com)
+Call or Text us at 913.638.7890
+
+[Email Us](mailto:brad.bronson@gmail.com)
