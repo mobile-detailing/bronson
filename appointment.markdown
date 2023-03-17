@@ -6,8 +6,6 @@ permalink: /appointment/
 
 Please call or text us at **913.638.7890**
 
-[Email Us](mailto:brad.bronson@gmail.com)
+Or [email us at bronsonmobiledetail@gmail.com](mailto:bronsonmobiledetail@gmail.com) 
 
-
-
-![Bronson Mobile Detailing](/assets/images/logo.png)
+![Bronson Mobile Detailing logo](/assets/images/logo.png)
