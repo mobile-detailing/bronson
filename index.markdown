@@ -6,6 +6,6 @@ layout: home
 ---
 Providing extensive interior and exterior automotive detailing services to the greater Kansas City area.  We take pride in bringing your vehicle back to a showroom fresh finish.
 
-![Bronson Mobile Detailing](/assets/images/bronson-mobile-detailing.jpeg)
+![Bronson Mobile Detailing](/assets/images/bronson-mobile-detailing.jpeg | width=viewport)
 
 detailing at your location.
