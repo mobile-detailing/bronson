@@ -10,4 +10,4 @@ Please call or text us at **913.638.7890**
 
 
 
-(/assets/images/logo.png)
+![Bronson Mobile Detailing](/assets/images/logo.png)
